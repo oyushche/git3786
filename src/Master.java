@@ -5,5 +5,6 @@ public class Master
         System.out.println("1");
         System.out.println("2_2");
         System.out.println("3");
+        System.out.println("4");
     }
 }
