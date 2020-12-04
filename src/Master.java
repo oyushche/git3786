@@ -16,6 +16,6 @@ public class Master
         System.out.println("11");
         System.out.println("12");
         
-        System.out.println("13");
+        System.out.println("13-master");
     }
 }
